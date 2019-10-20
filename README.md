@@ -5,12 +5,11 @@ Forked from [Diederik de Haas](https://github.com/diederikdehaas/rtl8814AU)'
 repository which is based on version 4.3.21 of an Edimax driver for the
 EW-7833UAC device.
 
-Updated with support for kernels >= 4.14.
+Updated with support for kernels >= 4.14 and < 5.3.
 
 # Caveat Emptor
 
-This code is in maintenance mode; it is kept up to date with the Linux kernel
-as far as possible, but no changes are made to the code other than that.
+This repository is no longer maintained.
 
 If you are thinking of buying a product with this chip in: don't, unless you
 are prepared to put a considerable amount of work in yourself. More generally,
